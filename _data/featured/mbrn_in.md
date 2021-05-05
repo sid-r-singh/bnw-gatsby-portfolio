@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /mbrn_in
-mockup: /assets/mbrn_in/mockup_final.png
+mockup: /assets/mbrn_in/mbrn_1x.png
 thumbnail: 'https://res.cloudinary.com/mbrn/image/upload/v1590584074/333_d9aond.jpg'
 date: 2020-09-14
 name: mbrn.in
