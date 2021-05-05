@@ -1,32 +1,26 @@
 ---
 template: BlogPost
-path: /periship
-mockup: /assets/periship/mockup.png
-thumbnail: 'https://images.unsplash.com/photo-1565891741441-64926e441838?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1651&q=80'
+path: /mbrn_in
+mockup: /assets/mbrn_in/mockup_final.png
+thumbnail: 'https://res.cloudinary.com/mbrn/image/upload/v1590584074/333_d9aond.jpg'
 date: 2020-09-14
-name: PeriShip
-title: This client-facing software is used to support thousands of time-sensitive shipments.
+name: mbrn.in
+title: A full stack blog using PHP & MySQL.
 category: Enterprise
-description: 'This software is used to support thousands of shipments including perishables, pharmaceuticals, and other time sensitive products.'
+description: 'This is an website which I designed for the multimeadia team of my campus. The website uses bootstrap, jquery on the frontend & PHP, MySQL on the backend.'
 tags:
-  - Python
-  - Django
-  - AWS
-  - MongoDB
+  - PHP
+  - MySQL
+  - Bootstrap
+  - jQuery
 ---
-Currently I'm working as a Software Engineer with PeriShip, and contributing to various Django projects, ranging from IT to client-facing web applications. Here I've been able to design and develop with a more full stack approach, for instance writing and working with REST API services, and consuming with more modern front-end frameworks  like React, Vue.JS, and working with AJAX for asynchronous SPA's single page applications.
-
-PeriShip focuses on providing digital solutions to a wide range of customers who wish to ship valuable and or time sensitive products. Given our exclusive partnership with FedEX, we can leverage the best of existing logistics infrastructure and provide excellent customer service through our digital solutions. And, recently the organization has been specializing and onboarding a wave of pharmaceutical clients.
+## Necessity
+During my UG, I was part of the multimedia team. Like any other university, we also have various functions/events hosted in our campus. The multimedia team is entrusted with the responsibility of capturing photos & videos of these events & most importantly ensure that students/faculty get these photos/videos at the end of a semester. Now this becomes a challange given the unique constraints posed by the campus administration. The rules dictate that, no student should be in possesion of flashdrive or HDDs. Thus for taking their memories(photos/videos) the only means left is DVD. Prior to me joining the team, this how the memories were given. For a given program, videos & images were highly compressed to accomodate within the 4.7GB capacity of a DVD. This resulted in significant degradation of video quality. At this point one may question, why not put the photos in one DVD & videos in another, which will barely demand any video compression. The answer is that, the act of procuring 2 DVDs for a single event would simply not be economical for the students & needless to say, there will be reluctance among them to procure these DVDs.
+Observing these peculiarities, this is what proposed to the team & it's head. First I convinced them that due to the rapidly evolving standards of the media & production industry, few years from now 1080p/4K will be the de facto standard. Thus when our students wish to look back to their memories, they will be dissastisfied with the resolution/quality of the video. Hence there is a need for us to provide them with full HD & high bitrate videos.
+To achieve this I proposed that, the photos can be uploaded cloud storage (Google drive or Mega.nz) & students be given access to that. 
 
 ## My contributions
+I designed a website which would serve as a repository of photos of events for years to come.
 
-### Claims app
-
-One of the larger projects I've been assigned to here with PeriShip was porting the customer shipment-claims appliciation to our various different projects. Furthermore, adding more functionality to query the collection of shipment claims.
-
-### Service Center locator
-
-Assumenda nulla est et est. Nulla optio quibusdam ab repellendus. Rerum in qui consequatur ea illo exercitationem saepe. Deserunt repellat pariatur consequatur consequatur. Eius eum repellat non ipsum.Alias magnam sit iure numquam. Et id deleniti at autem et. Vero ut aliquam tenetur nesciunt libero ratione mollitia.
-
-![covid-2](/assets/periship/map-dark.png)
-<figcaption>Service Center Locator</figcaption>
+![covid-2](/assets/mbrn_in/mbrn-Galaxy S8_black.png)
+<figcaption>Responsive design</figcaption>
