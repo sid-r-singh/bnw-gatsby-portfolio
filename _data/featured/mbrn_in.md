@@ -22,5 +22,5 @@ To achieve this I proposed that, the photos can be uploaded cloud storage (Googl
 ## My contributions
 I designed a website which would serve as a repository of photos of events for years to come.
 
-![covid-2](/assets/mbrn_in/mbrn-Galaxy S8_black.png)
+![Mobile phone view](/assets/mbrn_in/mbrn-Galaxy S8_black.png)
 <figcaption>Responsive design</figcaption>
