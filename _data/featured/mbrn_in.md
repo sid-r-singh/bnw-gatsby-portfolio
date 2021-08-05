@@ -6,7 +6,7 @@ thumbnail: 'https://res.cloudinary.com/mbrn/image/upload/v1590584074/333_d9aond.
 date: 2020-09-14
 name: mbrn.in
 title: A full stack blog using PHP & MySQL.
-category: College days
+category: Fullstack website
 description: 'This is a website which I designed for the multimeadia team of my campus, using Bootstrap, jQuery on the frontend & PHP, MySQL on the backend.'
 tags:
   - PHP
