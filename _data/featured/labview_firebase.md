@@ -1,18 +1,19 @@
 ---
 template: BlogPost
-path: /mbrn_in
+path: /labview-firebase
 mockup: /assets/mbrn_in/mbrn_1x.png
 thumbnail: 'https://res.cloudinary.com/mbrn/image/upload/v1590584074/333_d9aond.jpg'
 date: 2020-09-14
 name: mbrn.in
-title: A full stack blog using PHP & MySQL.
-category: College days
+title: Labview Firebase
+category: NoSQL
 description: 'This is a website which I designed for the multimeadia team of my campus, using Bootstrap, jQuery on the frontend & PHP, MySQL on the backend.'
 tags:
-  - PHP
-  - MySQL
-  - Bootstrap
-  - jQuery
+  - LabView
+  - NoSQL
+  - Firebase
+  - REST API
+  - JSON
 ---
 ## Background
 
