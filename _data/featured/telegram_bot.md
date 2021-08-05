@@ -15,6 +15,11 @@ tags:
   - jQuery
 ---
 ## Background
+Add to dev only
+
+```bash
+sudo apt-get git
+```
 
 ## My proposal
 
