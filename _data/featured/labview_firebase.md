@@ -1,11 +1,11 @@
 ---
 template: BlogPost
 path: /labview-firebase
-mockup: /assets/mbrn_in/mbrn_1x.png
-thumbnail: 'https://res.cloudinary.com/mbrn/image/upload/v1590584074/333_d9aond.jpg'
+mockup: /assets/labview_firebase/mockup.png
+thumbnail: assets/labview_firebase/banner.png
 date: 2020-09-14
-name: mbrn.in
-title: Labview Firebase
+name: Labview Firebase
+title: Remote control using LabView & firebase
 category: NoSQL
 description: 'This is a website which I designed for the multimeadia team of my campus, using Bootstrap, jQuery on the frontend & PHP, MySQL on the backend.'
 tags:
