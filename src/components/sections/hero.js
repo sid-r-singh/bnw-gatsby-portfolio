@@ -43,8 +43,8 @@ export default () => (
       <Container className="hero-header">
         <h1>
           <span id="greeting">{greet}</span><br></br>
-          I'm @<u>{data.site.siteMetadata.home.username}</u>,<br></br>
-          {data.site.siteMetadata.home.role}
+          I'm <u>{data.site.siteMetadata.home.username}</u>,<br></br>
+          {data.site.siteMetadata.home.greetingText}
         </h1>
         <p>{data.site.siteMetadata.home.summary}</p>
         <div className="cta">

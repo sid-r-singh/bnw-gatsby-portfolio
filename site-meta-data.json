@@ -4,8 +4,9 @@
   "description": "An interdisciplinary programmer who is insatiably curious about connecting things to the 🌐",
   "home": {
     "name": "Sidharth R",
-    "username": "sid",
-    "role": "Welcome to my portfolio",
+    "username": "Sidharth",
+    "greetingText": "Welcome to my portfolio",
+    "role": "Fullstack developer",
     "summary": "",
     "availability": "Open to new opportunities",
     "location": "India"
