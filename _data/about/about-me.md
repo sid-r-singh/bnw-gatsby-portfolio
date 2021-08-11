@@ -2,8 +2,8 @@
 template: about
 name: about
 socials: 
-    - 'https://github.com/brianruizy'
-    - 'https://linkedin.com/'
+    - 'https://github.com/sid-r-singh'
+    - 'https://www.linkedin.com/in/sidRanasingh/'
 tech: 
     - Django
     - Python
